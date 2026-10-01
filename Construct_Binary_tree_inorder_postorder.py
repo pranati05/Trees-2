@@ -4,7 +4,7 @@
 # Any problem you faced while coding this : No
 
 # Your code here along with comments explaining your approach
-# Recursive Approach. Since postorder traversal is left, right, root, every recursion we get the last element from postorder
+# Recursive Approach. Since postorder traversal is left, right, root, every recursion we get the last element from postorder so going backwards is root right left
 # Then get the index of root from inorder so everything before the index is left subtree and everything after the index is right subtree
 
 
